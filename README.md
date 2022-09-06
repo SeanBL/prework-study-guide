@@ -1,4 +1,4 @@
-# Coding Study Guide
+# Coding Study GUIDE
 
 ## Description
 
